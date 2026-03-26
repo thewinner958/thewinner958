@@ -6,14 +6,6 @@ I am Riftwalkr. I am a uni student in the EU, currently studying Cybersecurity.
 - Cybersecurity
 - Programing (more specifically backend with either Java or Python)
 - Gaming
-- Politics
-
-was thinking of adding something else but eh, maybe later.
-
-
-#### Spotify NowPlaying
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thewinner666&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=thewinner666&redirect=true)
 
 
 <!--
