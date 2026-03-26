@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I am TheWinner. I am a uni student from Bulgaria currently in the Informatics course (although probably gonna switch to something else but who knows lol).
+I am Riftwalkr. I am a uni student in the EU, currently studying Cybersecurity.
 
 #### Interests
-- Valorant (obviously 😅)
-- Coding
-- aaaand that's about it
+- Cybersecurity
+- Programing (more specifically backend with either Java or Python)
+- Gaming
+- Politics
 
 was thinking of adding something else but eh, maybe later.
 
